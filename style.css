@@ -1,0 +1,70 @@
+#newspaper{
+    font-size:60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    text-decoration: underline;
+}
+#tuesday{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: bolder;
+
+}
+#h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    font-weight: 700;
+}
+#h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    font-weight: 700;
+}
+#article{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+font-weight: lighter;
+padding-left: 3%;
+}
+#p1{
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-style: oblique;
+    font-variant: small-caps;
+    text-transform: capitalize;
+    
+
+}
+#td1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 1%;
+    font-size: larger;
+    text-transform: capitalize;
+
+}
+#td2{
+    padding-left: 1%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-transform: capitalize;
+}
+#td3{
+    padding-left: 1%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-transform: capitalize;
+}
+#td4{
+    padding-left: 1%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-transform: capitalize;
+}
+#td5{
+    padding-left: 1%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-transform: capitalize;
+
+}
